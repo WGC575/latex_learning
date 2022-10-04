@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1664912661 "c:/Users/wgc57/Documents/Workspace/latex_learning/Meeting-20221011/main.tex" "main.pdf" "main" 1664912663
-  "c:/Users/wgc57/Documents/Workspace/latex_learning/Meeting-20221011/main.tex" 1664912659 3006 5076f05607e9dc757aafe85273bce690 ""
+["pdflatex"] 1664927004 "c:/Users/wgc57/Documents/Workspace/latex_learning/Meeting-20221011/main.tex" "main.pdf" "main" 1664927037
+  "c:/Users/wgc57/Documents/Workspace/latex_learning/Meeting-20221011/main.tex" 1664927036 4141 da0c174d90b35a2aefe2c8138fa563d0 ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1626456695 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1626457528 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1626457177 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -32,6 +32,7 @@
   "c:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty" 1626457630 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1626457728 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "c:/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def" 1626457729 19103 48d29b6e2a64cb717117ef65f107b404 ""
+  "c:/texlive/2021/texmf-dist/tex/latex/graphics/dvipsnam.def" 1626457726 4995 8040f614c8de8318a0b5b2dea8a3fcef ""
   "c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty" 1626457726 2671 4de6781a30211fe0ea4c672e4a2a8166 ""
   "c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1626458155 27390 e56d07ec4c21b9dfc83acf3baec1b83c ""
   "c:/texlive/2021/texmf-dist/tex/latex/tools/xspace.sty" 1626460277 4545 d84d0b20a11b9c36c6ecf45697be591c ""
@@ -40,9 +41,9 @@
   "c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1626460743 5227234 8169b85b11be64e0073b5aa9f9ec0c16 ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1626460806 2801560 2b83091419c873c4b57637c3806f05dc ""
   "c:/texlive/2021/texmf.cnf" 1626460729 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1664912663 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "main.tex" 1664912659 3006 5076f05607e9dc757aafe85273bce690 ""
+  "main.aux" 1664927006 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "main.tex" 1664927036 4141 da0c174d90b35a2aefe2c8138fa563d0 ""
   (generated)
-  "main.log"
-  "main.pdf"
   "main.aux"
+  "main.pdf"
+  "main.log"
